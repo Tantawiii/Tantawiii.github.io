@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/game-portfolio/static/css/main.798d1b4a.css",
-    "main.js": "/game-portfolio/static/js/main.01d5e95c.js",
+    "main.css": "/game-portfolio/static/css/main.207ff047.css",
+    "main.js": "/game-portfolio/static/js/main.f1100b14.js",
     "static/media/message-under-fire.png": "/game-portfolio/static/media/message-under-fire.d0fbe219ba4cc655d215.png",
     "static/media/sciace-battles.png": "/game-portfolio/static/media/sciace-battles.a51535ee9cc6eeee7fd9.png",
     "static/media/MyImage.png": "/game-portfolio/static/media/MyImage.e7605a27de36ab24af73.png",
     "static/media/space-shooter.png": "/game-portfolio/static/media/space-shooter.163817ffdc586a78b95d.png",
     "index.html": "/game-portfolio/index.html",
-    "main.798d1b4a.css.map": "/game-portfolio/static/css/main.798d1b4a.css.map",
-    "main.01d5e95c.js.map": "/game-portfolio/static/js/main.01d5e95c.js.map"
+    "main.207ff047.css.map": "/game-portfolio/static/css/main.207ff047.css.map",
+    "main.f1100b14.js.map": "/game-portfolio/static/js/main.f1100b14.js.map"
   },
   "entrypoints": [
-    "static/css/main.798d1b4a.css",
-    "static/js/main.01d5e95c.js"
+    "static/css/main.207ff047.css",
+    "static/js/main.f1100b14.js"
   ]
 }
